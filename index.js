@@ -1,5 +1,5 @@
 
-	  function Resoult() {
+	  function Resault() {
 
 	    var x = Number(document.getElementById("x").value);
 	    var y = Number(document.getElementById("y").value);
